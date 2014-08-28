@@ -4,3 +4,9 @@ C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeC
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge02_RomanNumerals\obj\Debug\CodeChallenge02_RomanNumerals.csprojResolveAssemblyReference.cache
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge02_RomanNumerals\obj\Debug\CodeChallenge02_RomanNumerals.exe
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge02_RomanNumerals\obj\Debug\CodeChallenge02_RomanNumerals.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge02_RomanNumerals\bin\Debug\CodeChallenge02_RomanNumerals.exe.config
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge02_RomanNumerals\bin\Debug\CodeChallenge02_RomanNumerals.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge02_RomanNumerals\bin\Debug\CodeChallenge02_RomanNumerals.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge02_RomanNumerals\obj\Debug\CodeChallenge02_RomanNumerals.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge02_RomanNumerals\obj\Debug\CodeChallenge02_RomanNumerals.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge02_RomanNumerals\obj\Debug\CodeChallenge02_RomanNumerals.pdb

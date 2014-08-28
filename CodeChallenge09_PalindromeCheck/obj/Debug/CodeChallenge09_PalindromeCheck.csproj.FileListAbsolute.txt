@@ -4,3 +4,9 @@ C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeC
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge09_PalindromeCheck\obj\Debug\CodeChallenge09_PalindromeCheck.exe
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge09_PalindromeCheck\obj\Debug\CodeChallenge09_PalindromeCheck.pdb
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge09_PalindromeCheck\obj\Debug\CodeChallenge09_PalindromeCheck.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge09_PalindromeCheck\bin\Debug\CodeChallenge09_PalindromeCheck.exe.config
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge09_PalindromeCheck\bin\Debug\CodeChallenge09_PalindromeCheck.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge09_PalindromeCheck\bin\Debug\CodeChallenge09_PalindromeCheck.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge09_PalindromeCheck\obj\Debug\CodeChallenge09_PalindromeCheck.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge09_PalindromeCheck\obj\Debug\CodeChallenge09_PalindromeCheck.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge09_PalindromeCheck\obj\Debug\CodeChallenge09_PalindromeCheck.pdb

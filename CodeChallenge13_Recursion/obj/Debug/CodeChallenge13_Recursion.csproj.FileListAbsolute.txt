@@ -3,3 +3,9 @@ C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeC
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge13_Recursion\bin\Debug\CodeChallenge13_Recursion.pdb
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.exe
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recursion\bin\Debug\CodeChallenge13_Recursion.exe.config
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recursion\bin\Debug\CodeChallenge13_Recursion.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recursion\bin\Debug\CodeChallenge13_Recursion.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.pdb

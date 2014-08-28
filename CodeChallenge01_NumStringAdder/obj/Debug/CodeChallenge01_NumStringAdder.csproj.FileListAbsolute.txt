@@ -1,0 +1,5 @@
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_NumStringAdder\bin\Debug\CodeChallenge01_NumStringAdder.exe.config
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_NumStringAdder\bin\Debug\CodeChallenge01_NumStringAdder.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_NumStringAdder\bin\Debug\CodeChallenge01_NumStringAdder.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_NumStringAdder\obj\Debug\CodeChallenge01_NumStringAdder.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge01_NumStringAdder\obj\Debug\CodeChallenge01_NumStringAdder.pdb

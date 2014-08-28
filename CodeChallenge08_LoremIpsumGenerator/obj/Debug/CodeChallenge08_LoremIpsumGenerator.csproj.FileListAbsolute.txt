@@ -7,3 +7,12 @@ C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeC
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge08_LoremIpsumGenerator\obj\Debug\CodeChallenge08_LoremIpsumGenerator.csprojResolveAssemblyReference.cache
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge08_LoremIpsumGenerator\bin\Debug\LoremIpsumTextSource\BaconIpsum.txt
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge08_LoremIpsumGenerator\bin\Debug\LoremIpsumTextSource\RikerIpsum.txt
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge08_LoremIpsumGenerator\bin\Debug\LoremIpsumTextSource\BaconIpsum.txt
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge08_LoremIpsumGenerator\bin\Debug\LoremIpsumTextSource\LoremIpsum.txt
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge08_LoremIpsumGenerator\bin\Debug\LoremIpsumTextSource\RikerIpsum.txt
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge08_LoremIpsumGenerator\bin\Debug\CodeChallenge08_LoremIpsumGenerator.exe.config
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge08_LoremIpsumGenerator\bin\Debug\CodeChallenge08_LoremIpsumGenerator.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge08_LoremIpsumGenerator\bin\Debug\CodeChallenge08_LoremIpsumGenerator.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge08_LoremIpsumGenerator\obj\Debug\CodeChallenge08_LoremIpsumGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge08_LoremIpsumGenerator\obj\Debug\CodeChallenge08_LoremIpsumGenerator.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge08_LoremIpsumGenerator\obj\Debug\CodeChallenge08_LoremIpsumGenerator.pdb

@@ -4,3 +4,9 @@ C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeC
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge03_FizzBuzz\obj\Debug\CodeChallenge03_FizzBuzz.csprojResolveAssemblyReference.cache
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge03_FizzBuzz\obj\Debug\CodeChallenge03_FizzBuzz.exe
 C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge03_FizzBuzz\obj\Debug\CodeChallenge03_FizzBuzz.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge03_FizzBuzz\bin\Debug\CodeChallenge03_FizzBuzz.exe.config
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge03_FizzBuzz\bin\Debug\CodeChallenge03_FizzBuzz.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge03_FizzBuzz\bin\Debug\CodeChallenge03_FizzBuzz.pdb
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge03_FizzBuzz\obj\Debug\CodeChallenge03_FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge03_FizzBuzz\obj\Debug\CodeChallenge03_FizzBuzz.exe
+C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge03_FizzBuzz\obj\Debug\CodeChallenge03_FizzBuzz.pdb

@@ -36,7 +36,7 @@ namespace CodeChallenge01_NumStringAdder
         public static int SumNumChars(string numString)
         {
             int sum = 0;
-            for (int i = 0; i < numString.Length; i++ )
+            for (int i = 0; i < numString.Length; i++)
             {
                 int numInt;
                 string numChar = numString[i].ToString();
