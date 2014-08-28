@@ -1,0 +1,6 @@
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge14_ChangeMachine\bin\Debug\CodeChallenge14_ChangeMachine.exe.config
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge14_ChangeMachine\bin\Debug\CodeChallenge14_ChangeMachine.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge14_ChangeMachine\bin\Debug\CodeChallenge14_ChangeMachine.pdb
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge14_ChangeMachine\obj\Debug\CodeChallenge14_ChangeMachine.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge14_ChangeMachine\obj\Debug\CodeChallenge14_ChangeMachine.pdb
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge14_ChangeMachine\obj\Debug\CodeChallenge14_ChangeMachine.csprojResolveAssemblyReference.cache

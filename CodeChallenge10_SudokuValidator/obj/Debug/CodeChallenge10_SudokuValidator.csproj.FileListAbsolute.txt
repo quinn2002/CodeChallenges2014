@@ -1,0 +1,6 @@
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge10_SudokuValidator\bin\Debug\CodeChallenge10_SudokuValidator.exe.config
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge10_SudokuValidator\bin\Debug\CodeChallenge10_SudokuValidator.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge10_SudokuValidator\bin\Debug\CodeChallenge10_SudokuValidator.pdb
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge10_SudokuValidator\obj\Debug\CodeChallenge10_SudokuValidator.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge10_SudokuValidator\obj\Debug\CodeChallenge10_SudokuValidator.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge10_SudokuValidator\obj\Debug\CodeChallenge10_SudokuValidator.pdb

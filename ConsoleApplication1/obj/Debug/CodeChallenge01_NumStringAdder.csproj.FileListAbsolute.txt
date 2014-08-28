@@ -1,0 +1,6 @@
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\ConsoleApplication1\obj\Debug\CodeChallenge01_NumStringAdder.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

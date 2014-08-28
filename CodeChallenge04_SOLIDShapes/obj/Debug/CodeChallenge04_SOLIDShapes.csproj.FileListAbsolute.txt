@@ -1,0 +1,6 @@
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge04_SOLIDShapes\bin\Debug\CodeChallenge04_SOLIDShapes.exe.config
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge04_SOLIDShapes\bin\Debug\CodeChallenge04_SOLIDShapes.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge04_SOLIDShapes\bin\Debug\CodeChallenge04_SOLIDShapes.pdb
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge04_SOLIDShapes\obj\Debug\CodeChallenge04_SOLIDShapes.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge04_SOLIDShapes\obj\Debug\CodeChallenge04_SOLIDShapes.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge04_SOLIDShapes\obj\Debug\CodeChallenge04_SOLIDShapes.pdb

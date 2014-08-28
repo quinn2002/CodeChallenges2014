@@ -1,0 +1,6 @@
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge11_Coupon\bin\Debug\CodeChallenge11_Coupon.exe.config
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge11_Coupon\obj\Debug\CodeChallenge11_Coupon.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge11_Coupon\bin\Debug\CodeChallenge11_Coupon.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge11_Coupon\bin\Debug\CodeChallenge11_Coupon.pdb
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge11_Coupon\obj\Debug\CodeChallenge11_Coupon.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge11_Coupon\obj\Debug\CodeChallenge11_Coupon.pdb

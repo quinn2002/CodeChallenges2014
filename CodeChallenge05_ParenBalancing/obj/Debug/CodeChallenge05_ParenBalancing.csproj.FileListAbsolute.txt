@@ -1,0 +1,5 @@
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge05_ParenBalancing\bin\Debug\CodeChallenge05_ParenBalancing.exe.config
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge05_ParenBalancing\bin\Debug\CodeChallenge05_ParenBalancing.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge05_ParenBalancing\bin\Debug\CodeChallenge05_ParenBalancing.pdb
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge05_ParenBalancing\obj\Debug\CodeChallenge05_ParenBalancing.exe
+C:\Users\Quinn Heiner\documents\visual studio 2013\Projects\CodeChallenges\CodeChallenge05_ParenBalancing\obj\Debug\CodeChallenge05_ParenBalancing.pdb
