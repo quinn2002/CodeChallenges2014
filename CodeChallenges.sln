@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2013 for Windows Desktop
+# Visual Studio Express 2013 for Web
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenge13_Recursion", "CodeChallenge13_Recursion\CodeChallenge13_Recursion.csproj", "{AD9FC04E-3CE0-41CD-B03A-D4BF9802E1DB}"
@@ -32,6 +32,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenge12_LinkedList", "CodeChallenge12_LinkedList\CodeChallenge12_LinkedList.csproj", "{0962FBD7-1A9F-44B5-8BA8-E2B87D832354}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallenge01_NumStringAdder", "CodeChallenge01_NumStringAdder\CodeChallenge01_NumStringAdder.csproj", "{AB4ECFC2-1DBD-4615-8EA5-02280052CBB3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVCApp", "MVCApp", "{FE85AEE2-4C56-4205-B116-05138D6E2322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCCodeChallenges", "MVCCodeChallenges\MVCCodeChallenges.csproj", "{5B1CE8A6-1A47-460B-A028-453CD3709931}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLogic", "BusinessLogic", "{1CE4954D-BFA8-4A13-B1FD-70AEAEFCC768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallengesBL", "CodeChallengesBL\CodeChallengesBL.csproj", "{9648F033-FB65-4A84-AF8A-BB50965A9859}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -95,6 +103,14 @@ Global
 		{AB4ECFC2-1DBD-4615-8EA5-02280052CBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB4ECFC2-1DBD-4615-8EA5-02280052CBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB4ECFC2-1DBD-4615-8EA5-02280052CBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B1CE8A6-1A47-460B-A028-453CD3709931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1CE8A6-1A47-460B-A028-453CD3709931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1CE8A6-1A47-460B-A028-453CD3709931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1CE8A6-1A47-460B-A028-453CD3709931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9648F033-FB65-4A84-AF8A-BB50965A9859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9648F033-FB65-4A84-AF8A-BB50965A9859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9648F033-FB65-4A84-AF8A-BB50965A9859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9648F033-FB65-4A84-AF8A-BB50965A9859}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,5 +130,7 @@ Global
 		{FF4BBE83-25D3-4AFD-800A-09B87718E984} = {8842E246-9ED3-4738-90DA-4095A62D50AD}
 		{0962FBD7-1A9F-44B5-8BA8-E2B87D832354} = {8842E246-9ED3-4738-90DA-4095A62D50AD}
 		{AB4ECFC2-1DBD-4615-8EA5-02280052CBB3} = {8842E246-9ED3-4738-90DA-4095A62D50AD}
+		{5B1CE8A6-1A47-460B-A028-453CD3709931} = {FE85AEE2-4C56-4205-B116-05138D6E2322}
+		{9648F033-FB65-4A84-AF8A-BB50965A9859} = {1CE4954D-BFA8-4A13-B1FD-70AEAEFCC768}
 	EndGlobalSection
 EndGlobal

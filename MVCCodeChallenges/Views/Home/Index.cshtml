@@ -1,0 +1,28 @@
+﻿@model IEnumerable<MVCCodeChallenges.Models.Challenge>
+
+@{
+    ViewBag.Title = "Index";
+}
+<!-- Navigation -->
+@Html.Partial("~/Views/Shared/_NavBarPartial.cshtml", Model)
+
+<!-- Intro Header -->
+@Html.Partial("~/Views/Shared/_IntroHeaderPartial.cshtml", Model)
+
+<!-- Portfolio Grid Section -->
+@Html.Partial("~/Views/Shared/_PortfolioGridPartial.cshtml", Model)
+
+<!-- About Section -->
+@Html.Partial("~/Views/Shared/_AboutPartial.cshtml", Model)
+
+<!-- Contact Section -->
+@Html.Partial("~/Views/Shared/_ContactPartial.cshtml", Model)
+
+<!-- Footer -->
+@Html.Partial("~/Views/Shared/_FooterPartial.cshtml", Model)
+
+<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+@Html.Partial("~/Views/Shared/_ScrollToTopPartial.cshtml", Model)
+
+<!-- Portfolio Modals -->
+@Html.Partial("~/Views/Shared/_PortfolioModalPartial.cshtml", Model)

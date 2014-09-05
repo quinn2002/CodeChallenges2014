@@ -1,0 +1,66 @@
+﻿@model IEnumerable<MVCCodeChallenges.Models.Challenge>
+@using MVCCodeChallenges.UtilityClasses
+
+@foreach (var item in Model)
+{
+    string imgName = item.ImageFilenameNoExtension;
+    string itemUriTitle = item.UriTitle;
+    <div class="portfolio-modal modal fade" id="portfolioModal@(item.ChallengeId)" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>@item.Name</h2>
+                            <hr class="star-primary">
+                            <img src="~/Content/Template/img/portfolio/svg/@(imgName).svg" class="img-responsive img-centered" alt="@(imgName)" title="@(imgName)" />
+                            <p>@item.Description</p>
+
+                            <form class="challenge-form" id="@itemUriTitle" method="post" data-results-target=".@(itemUriTitle)-results">
+                                <ul class="item-details list-group">
+                                    @foreach (var challengeInput in item.ChallengeInputs.OrderBy(i => i.Sequence))
+                                    {
+                                        string inputId = challengeInput.InputNameAttr;
+                                        string text = challengeInput.InstructionText.ConvertNewLinesToHtmlLineBreaksPreserveSpace();
+
+                                        <li class="list-unstyled list-group-item">
+                                            <label for="@inputId" class="label label-info" style="font-size:100%; white-space:normal;">@challengeInput.InstructionText</label>
+                                            @if (@challengeInput.InputElement == "select")
+                                            {
+                                                <select name="@inputId" id="@inputId">
+                                                    @foreach (var val in challengeInput.InputLookupValues.Where(i => i.InputName == challengeInput.InputNameAttr).OrderBy(i => i.Sequence))
+                                                    {
+                                                        <option value="@val.Value">@val.Display</option>
+                                                    }
+                                                </select>
+                                            }
+                                            else
+                                            {
+                                                <input type="@challengeInput.InputTypeAttr" name="@inputId" id="@inputId" maxlength="5000" />
+                                            }
+                                        </li>
+                                    }
+                                </ul>
+                                <input type="hidden" name="challengeId" value="@(item.ChallengeId)" />
+
+                                @if (@item.ChallengeInputs.Count > 0)
+                                { 
+                                    <button type="button" class="btn btn-default challenge-form-submit"><i class="fa fa-times"></i> Submit</button>
+                                    <p class="@(itemUriTitle)-results" />
+                                }
+                            </form>
+
+                            <button type="button" class="btn btn-default challenge-form-close" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
