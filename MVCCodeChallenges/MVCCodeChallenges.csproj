@@ -220,6 +220,7 @@
     <Compile Include="UtilityClasses\DynamicMethodInvokeChallengeClass.cs" />
     <Compile Include="UtilityClasses\FileReader.cs" />
     <Compile Include="UtilityClasses\StringManipulation.cs" />
+    <Compile Include="ViewModels\ChallengeViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\CodeChallengeSeedData.txt" />

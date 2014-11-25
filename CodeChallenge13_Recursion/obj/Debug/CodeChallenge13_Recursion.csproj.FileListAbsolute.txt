@@ -9,3 +9,9 @@ C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recurs
 C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.csprojResolveAssemblyReference.cache
 C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.exe
 C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge13_Recursion\bin\Debug\CodeChallenge13_Recursion.exe.config
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge13_Recursion\bin\Debug\CodeChallenge13_Recursion.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge13_Recursion\bin\Debug\CodeChallenge13_Recursion.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallenge13_Recursion\obj\Debug\CodeChallenge13_Recursion.csprojResolveAssemblyReference.cache

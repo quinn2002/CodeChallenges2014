@@ -1,28 +1,28 @@
-﻿@model IEnumerable<MVCCodeChallenges.Models.Challenge>
+﻿@model MVCCodeChallenges.ViewModels.HomeIndexViewModel
 
 @{
     ViewBag.Title = "Index";
 }
 <!-- Navigation -->
-@Html.Partial("~/Views/Shared/_NavBarPartial.cshtml", Model)
+@Html.Partial("~/Views/Shared/_NavBarPartial.cshtml", Model.Challenges)
 
 <!-- Intro Header -->
-@Html.Partial("~/Views/Shared/_IntroHeaderPartial.cshtml", Model)
+@Html.Partial("~/Views/Shared/_IntroHeaderPartial.cshtml", Model.Challenges)
 
 <!-- Portfolio Grid Section -->
 @Html.Partial("~/Views/Shared/_PortfolioGridPartial.cshtml", Model)
 
 <!-- About Section -->
-@Html.Partial("~/Views/Shared/_AboutPartial.cshtml", Model)
+@Html.Partial("~/Views/Shared/_AboutPartial.cshtml", Model.Challenges)
 
 <!-- Contact Section -->
-@Html.Partial("~/Views/Shared/_ContactPartial.cshtml", Model)
+@Html.Partial("~/Views/Shared/_ContactPartial.cshtml", Model.Challenges)
 
 <!-- Footer -->
-@Html.Partial("~/Views/Shared/_FooterPartial.cshtml", Model)
+@Html.Partial("~/Views/Shared/_FooterPartial.cshtml", Model.Challenges)
 
 <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-@Html.Partial("~/Views/Shared/_ScrollToTopPartial.cshtml", Model)
+@Html.Partial("~/Views/Shared/_ScrollToTopPartial.cshtml", Model.Challenges)
 
 <!-- Portfolio Modals -->
-@Html.Partial("~/Views/Shared/_PortfolioModalPartial.cshtml", Model)
+@Html.Partial("~/Views/Shared/_PortfolioModalPartial.cshtml", Model.Challenges)

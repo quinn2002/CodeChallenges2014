@@ -40,20 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConcreteClasses\CodeChallenge01_NumStringAdder.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge02_RomanNumerals.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge03_FizzBuzz.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge04_SOLIDShapes.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge05_ParenBalancing.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge06_CaesarCipher.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge07_CarWashThread.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge08_LoremIpsumGenerator.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge09_PalindromeCheck.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge10_SudokuValidator.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge11_Coupon.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge12_LinkedList.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge13_Recursion.cs" />
-    <Compile Include="ConcreteClasses\CodeChallenge14_ChangeMachine.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge01_NumStringAdder.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge02_RomanNumerals.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge03_FizzBuzz.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge04_SOLIDShapes.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge05_ParenBalancing.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge06_CaesarCipher.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge07_CarWashThread.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge08_LoremIpsumGenerator.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge09_PalindromeCheck.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge10_SudokuValidator.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge11_Coupon.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge12_LinkedList.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge13_Recursion.cs" />
+    <Compile Include="ConcreteClasses\2014\CodeChallenge14_ChangeMachine.cs" />
+    <Compile Include="ConcreteClasses\2015-Q1\CodeChallenge01_AlphanumericSorter.cs" />
+    <Compile Include="ConcreteClasses\2015-Q1\CodeChallenge02_ChangeMachine.cs" />
     <Compile Include="Interfaces\ICodeChallenge.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

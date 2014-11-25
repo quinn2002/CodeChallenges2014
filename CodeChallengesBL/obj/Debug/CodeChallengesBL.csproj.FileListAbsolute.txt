@@ -3,3 +3,8 @@ C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallengesBL\bin\D
 C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallengesBL\obj\Debug\CodeChallengesBL.csprojResolveAssemblyReference.cache
 C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallengesBL\obj\Debug\CodeChallengesBL.dll
 C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallengesBL\obj\Debug\CodeChallengesBL.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallengesBL\bin\Debug\CodeChallengesBL.dll
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallengesBL\bin\Debug\CodeChallengesBL.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallengesBL\obj\Debug\CodeChallengesBL.csprojResolveAssemblyReference.cache
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallengesBL\obj\Debug\CodeChallengesBL.dll
+C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\CodeChallengesBL\obj\Debug\CodeChallengesBL.pdb

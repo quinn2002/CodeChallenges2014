@@ -1,43 +1,48 @@
-﻿@model IEnumerable<MVCCodeChallenges.Models.Challenge>
+﻿@model MVCCodeChallenges.ViewModels.HomeIndexViewModel
 
 <section id="portfolio">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2>Portfolio</h2>
-                <hr class="star-primary">
-            </div>
-        </div>
-        <div class="row">
-            @*@using (Ajax.BeginForm(
-                new AjaxOptions
-                {
-                    HttpMethod = "get",
-                    InsertionMode = InsertionMode.Replace,
-                    UpdateTargetId = "portfolioModal" // + id here
-                }))
-            {
-                <input type="search" name="Search Term" />
-                <input type="submit" value="Search By Name" />
-            }*@
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2>Portfolio</h2>
+				<hr class="star-primary">
+			</div>
+		</div>
+		<div class="row">
+			@*@using (Ajax.BeginForm(
+				new AjaxOptions
+				{
+					HttpMethod = "get",
+					InsertionMode = InsertionMode.Replace,
+					UpdateTargetId = "portfolioModal" // + id here
+				}))
+			{
+				<input type="search" name="Search Term" />
+				<input type="submit" value="Search By Name" />
+			}*@
+			
+			<div class="text-center" style="padding:1.2em;">
+				@Html.LabelFor(m => m.Years, "Select Year: ")
+				@Html.DropDownListFor(m => m.SelectedYear, Model.Years)
+			</div>
 
-            @foreach (var item in Model)
-            {
-                string imgName = item.ImageFilenameNoExtension; 
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal@(item.ChallengeId)" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="~/Content/Template/img/portfolio/svg/@(imgName).svg" class="img-responsive" alt="@(imgName)" title="@(imgName)" />
-                        <div class="text-center">
-                            @item.Name
-                        </div>
-                    </a>
-                </div>
-            }
-        </div>
-    </div>
+			@foreach (var item in Model.Challenges)
+			{
+				string imgName = item.ImageFilenameNoExtension; 
+				<div class="col-sm-4 portfolio-item">
+					<a href="#portfolioModal@(item.ChallengeId)" class="portfolio-link" data-toggle="modal">
+						<div class="caption">
+							<div class="caption-content">
+								<i class="fa fa-search-plus fa-3x"></i>
+							</div>
+						</div>
+						<img src="~/Content/Template/img/portfolio/svg/@(imgName).svg" class="img-responsive" alt="@(imgName)" title="@(imgName)" />
+						<div class="text-center">
+							@item.Name
+						</div>
+					</a>
+				</div>
+			}
+		</div>
+	</div>
 </section>
