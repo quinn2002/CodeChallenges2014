@@ -1,4 +1,4 @@
-CodeChallenges2014
+STGCodeChallenges
 ==================
 
 Project contains all of the STG Weekly Code Challenges beginning summer 2014.  Currently, these are all Windows console applications, as well as an MVC web app that brings all of the challenges together in a common end-user interface.
