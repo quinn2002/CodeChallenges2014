@@ -1,0 +1,6 @@
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_AlphanumericStringAdder\bin\Debug\CodeChallenge03_AlphanumericStringAdder.exe.config
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_AlphanumericStringAdder\bin\Debug\CodeChallenge03_AlphanumericStringAdder.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_AlphanumericStringAdder\bin\Debug\CodeChallenge03_AlphanumericStringAdder.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_AlphanumericStringAdder\obj\Debug\CodeChallenge03_AlphanumericStringAdder.csprojResolveAssemblyReference.cache
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_AlphanumericStringAdder\obj\Debug\CodeChallenge03_AlphanumericStringAdder.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge03_AlphanumericStringAdder\obj\Debug\CodeChallenge03_AlphanumericStringAdder.pdb

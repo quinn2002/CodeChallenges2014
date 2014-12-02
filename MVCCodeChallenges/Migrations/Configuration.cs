@@ -1,11 +1,11 @@
 namespace MVCCodeChallenges.Migrations
 {
-	using MVCCodeChallenges.Models;
+	using Models;
 	using System.Collections.Generic;
 	using System.Data.Entity.Migrations;
 	using System.Linq;
 
-	internal sealed class Configuration : DbMigrationsConfiguration<MVCCodeChallenges.Models.CodeChallengesDB>
+	internal sealed class Configuration : DbMigrationsConfiguration<CodeChallengesDB>
 	{
 		public Configuration()
 		{
@@ -13,7 +13,7 @@ namespace MVCCodeChallenges.Migrations
 			AutomaticMigrationDataLossAllowed = false;
 		}
 
-		protected override void Seed(MVCCodeChallenges.Models.CodeChallengesDB context)
+		protected override void Seed(CodeChallengesDB context)
 		{
 			//  This method will be called after migrating to the latest version.
 
@@ -191,6 +191,16 @@ namespace MVCCodeChallenges.Migrations
 					UriTitle = "change-machine-2015",
 					Description = "Implementation of a change machine that, given a U.S. currency value, determines the FEWEST number of bills and coins to return for change, listing out the exact change. Assumes $1, $5, $10, $20, $50, $100 bills and penny, nickel, dime, quarter coins for the denominations",
 					ImageFilenameNoExtension = "coins"
+				},
+				new Challenge
+				{
+					ClassPath = "CodeChallengesBL.ConcreteClasses._2015_Q1.CodeChallenge03_AlphanumericStringAdder,CodeChallengesBL",
+					Sequence = 230,
+					Year = "2015-Q1",
+					Name = "Code Challenge #3 - Alphanumeric String Adder",
+					UriTitle = "alphanumeric-string-adder",
+					Description = "Searches for all the numbers in a string, adds them together, then returns that final number divided by the total amount of letters in the string.",
+					ImageFilenameNoExtension = "pencil"
 				}
 			};
 			
@@ -550,6 +560,15 @@ namespace MVCCodeChallenges.Migrations
 					InputTypeAttr = "text", 
 					Sequence = 20, 
 					InstructionText = "Enter the exact change to compute (no $ signs), e.g. 5.26: "
+				},
+				new ChallengeInput 
+				{
+					ChallengeId = challenges.Single(c => c.UriTitle == "alphanumeric-string-adder").ChallengeId,
+					InputElement = "input", 
+					InputNameAttr = challenges.Single(c => c.UriTitle == "alphanumeric-string-adder").UriTitle + "10",
+					InputTypeAttr = "text", 
+					Sequence = 10, 
+					InstructionText = "Enter string from which to calculate result: "
 				}
 			};
 

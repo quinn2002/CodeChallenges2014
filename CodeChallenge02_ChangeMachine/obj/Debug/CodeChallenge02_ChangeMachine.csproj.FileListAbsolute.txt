@@ -6,3 +6,5 @@ C:\Users\qheiner\Dropbox\Work\STG\Training\CodeChallenges\CodeChallenges2014\Cod
 C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_ChangeMachine\bin\Debug\CodeChallenge02_ChangeMachine.exe.config
 C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_ChangeMachine\obj\Debug\CodeChallenge02_ChangeMachine.exe
 C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_ChangeMachine\obj\Debug\CodeChallenge02_ChangeMachine.pdb
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_ChangeMachine\bin\Debug\CodeChallenge02_ChangeMachine.exe
+C:\Users\qheiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge02_ChangeMachine\bin\Debug\CodeChallenge02_ChangeMachine.pdb

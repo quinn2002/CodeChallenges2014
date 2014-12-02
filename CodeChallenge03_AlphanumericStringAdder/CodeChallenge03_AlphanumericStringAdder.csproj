@@ -4,15 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9648F033-FB65-4A84-AF8A-BB50965A9859}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <ProjectGuid>{1A463761-2EF3-46FD-B836-E9DD91E9A659}</ProjectGuid>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CodeChallengesBL</RootNamespace>
-    <AssemblyName>CodeChallengesBL</AssemblyName>
+    <RootNamespace>CodeChallenge03_AlphanumericStringAdder</RootNamespace>
+    <AssemblyName>CodeChallenge03_AlphanumericStringAdder</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,6 +23,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -31,7 +33,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
-    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -40,25 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConcreteClasses\2014\CodeChallenge01_NumStringAdder.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge02_RomanNumerals.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge03_FizzBuzz.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge04_SOLIDShapes.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge05_ParenBalancing.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge06_CaesarCipher.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge07_CarWashThread.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge08_LoremIpsumGenerator.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge09_PalindromeCheck.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge10_SudokuValidator.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge11_Coupon.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge12_LinkedList.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge13_Recursion.cs" />
-    <Compile Include="ConcreteClasses\2014\CodeChallenge14_ChangeMachine.cs" />
-    <Compile Include="ConcreteClasses\2015-Q1\CodeChallenge01_AlphanumericSorter.cs" />
-    <Compile Include="ConcreteClasses\2015-Q1\CodeChallenge02_ChangeMachine.cs" />
-    <Compile Include="ConcreteClasses\2015-Q1\CodeChallenge03_AlphanumericStringAdder.cs" />
-    <Compile Include="Interfaces\ICodeChallenge.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
