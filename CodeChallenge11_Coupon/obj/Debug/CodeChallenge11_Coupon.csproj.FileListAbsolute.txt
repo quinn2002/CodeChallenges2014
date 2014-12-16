@@ -10,3 +10,9 @@ C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge11_Coupon
 C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge11_Coupon\obj\Debug\CodeChallenge11_Coupon.csprojResolveAssemblyReference.cache
 C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge11_Coupon\obj\Debug\CodeChallenge11_Coupon.exe
 C:\Users\Quinn Heiner\Documents\GitHub\CodeChallenges2014\CodeChallenge11_Coupon\obj\Debug\CodeChallenge11_Coupon.pdb
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_Coupon\bin\Debug\CodeChallenge11_Coupon.exe.config
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_Coupon\bin\Debug\CodeChallenge11_Coupon.exe
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_Coupon\bin\Debug\CodeChallenge11_Coupon.pdb
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_Coupon\obj\Debug\CodeChallenge11_Coupon.csprojResolveAssemblyReference.cache
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_Coupon\obj\Debug\CodeChallenge11_Coupon.exe
+C:\Users\Quinn Heiner\Dropbox\Work\STG\Training\STGCodeChallenges\CodeChallenge11_Coupon\obj\Debug\CodeChallenge11_Coupon.pdb

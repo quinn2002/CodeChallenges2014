@@ -201,6 +201,16 @@ namespace MVCCodeChallenges.Migrations
 					UriTitle = "alphanumeric-string-adder",
 					Description = "Searches for all the numbers in a string, adds them together, then returns that final number divided by the total amount of letters in the string.",
 					ImageFilenameNoExtension = "pencil"
+				},
+				new Challenge
+				{
+					ClassPath = "CodeChallengesBL.ConcreteClasses._2015_Q1.CodeChallenge04_MathExpressions,CodeChallengesBL",
+					Sequence = 240,
+					Year = "2015-Q1",
+					Name = "Code Challenge #4 - Mathmatical Expressions",
+					UriTitle = "math-expressions",
+					Description = "Evaluate a basic mathematical expression with integers. For example, if the string was 2+(3-1)*3, the output should be 8. If the string was (2-0)(6/2), the output should be 6",
+					ImageFilenameNoExtension = "vespa"
 				}
 			};
 			
@@ -569,6 +579,15 @@ namespace MVCCodeChallenges.Migrations
 					InputTypeAttr = "text", 
 					Sequence = 10, 
 					InstructionText = "Enter string from which to calculate result: "
+				},
+				new ChallengeInput 
+				{
+					ChallengeId = challenges.Single(c => c.UriTitle == "math-expressions").ChallengeId,
+					InputElement = "input", 
+					InputNameAttr = challenges.Single(c => c.UriTitle == "math-expressions").UriTitle + "10",
+					InputTypeAttr = "text", 
+					Sequence = 10, 
+					InstructionText = "Enter a mathmatical expression using only +, -, /, *, (, ), and digits 0-9: "
 				}
 			};
 
